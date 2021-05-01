@@ -21,7 +21,6 @@ body{
 
 .media-item-container-flex{
     display: flex;
-    flex-direction: row;
     border-radius: 10px;
     margin: 5px;
     background-color: white;
